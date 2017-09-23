@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\navygold\documents\visual studio 2015\projects\cnn\cnn\main.cpp(35): warning C4244: “=”: 从“std::size_t”转换到“float”，可能丢失数据
+  cnn.vcxproj -> C:\Users\NavyGold\documents\visual studio 2015\Projects\cnn\Debug\cnn.exe
+  cnn.vcxproj -> C:\Users\NavyGold\documents\visual studio 2015\Projects\cnn\Debug\cnn.pdb (Full PDB)
